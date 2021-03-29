@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>979147415415-9mdghrroajedbe1tq9jkbclbqdfijuvs.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.979147415415-9mdghrroajedbe1tq9jkbclbqdfijuvs</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAzXRQPyrCl_mQOzvou0CZjqUbRO2HyoyE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>979147415415</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>icar.DemoLoadMore</string>
+	<key>PROJECT_ID</key>
+	<string>tracking-bbc5c</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tracking-bbc5c.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:979147415415:ios:b7f64ff7d5d676f17e8b72</string>
+	<key>DATABASE_URL</key>
+	<string>https://tracking-bbc5c-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
